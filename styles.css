@@ -1,0 +1,28 @@
+html
+{
+    display: flex;
+    background-color: #fff;
+}
+
+body
+{
+    background-color: #ddd;
+    width: 99% ;
+}
+div
+{
+    background-color: #888;
+    width: 95%;
+    height: 400px;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+p
+{
+    background-color: rgb( 199, 111, 111 ); 
+    width: 80%;
+    height: auto;
+    padding: 35px 30px 10px  20px;
+    margin-top: 30px;
+  
+}
